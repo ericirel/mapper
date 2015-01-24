@@ -13,6 +13,9 @@
  *= require_tree .
  *= require_self
  */
-body{
-  font-family: arial;
+
+body {
+  font: 1em/1.5 Arial;
+  margin: 0;
 }
+
